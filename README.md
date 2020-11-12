@@ -1,4 +1,4 @@
-# Libft_42
+# GNL
 
 GNL is a function that, allows to read a line ending with a newline character ('\n') from a file descriptor, without knowing its size beforehand.
 
